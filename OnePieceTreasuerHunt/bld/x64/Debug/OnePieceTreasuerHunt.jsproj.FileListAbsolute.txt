@@ -1,0 +1,16 @@
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Debug\ReverseMap\resources.pri
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Debug\AppxManifest.xml
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Debug\OnePieceTreasuerHunt.build.appxrecipe
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\ResourceHandlingTask.state
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\priconfig.xml
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\priconfig.xml.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\layout.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\layout.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\resources.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\resources.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\pri.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\pri.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\qualifiers.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\qualifiers.txt.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Debug\ProjectArchitectures.txt

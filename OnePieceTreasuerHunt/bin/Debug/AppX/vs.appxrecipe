@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>200R</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1c86a7c5-0b78-45af-a7d8-66e575e0d61f</PackageIdentityName>
+    <IntermediateOutputPath>E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>17234678A0AB52CB8756C5C4057768B601D52C6FF74E64D0E2813F1F3D4FA950</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1c86a7c5-0b78-45af-a7d8-66e575e0d61f_1.0.0.0_neutral__4sdaedqydyjdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1c86a7c5-0b78-45af-a7d8-66e575e0d61f_4sdaedqydyjdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1c86a7c5-0b78-45af-a7d8-66e575e0d61f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-16T01:46:26.507</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\audio\CannonShot.mp3">
+      <PackagePath>audio\CannonShot.mp3</PackagePath>
+      <Modified>2016-05-16T01:43:39.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\audio\Jump.mp3">
+      <PackagePath>audio\Jump.mp3</PackagePath>
+      <Modified>2016-05-16T00:36:16.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\audio\LuffyKing.mp3">
+      <PackagePath>audio\LuffyKing.mp3</PackagePath>
+      <Modified>2016-05-16T00:02:09.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\audio\TestSound2.mp3">
+      <PackagePath>audio\TestSound2.mp3</PackagePath>
+      <Modified>2016-05-10T13:01:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\cannon.png">
+      <PackagePath>images\cannon.png</PackagePath>
+      <Modified>2016-05-12T12:43:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\cannon2.png">
+      <PackagePath>images\cannon2.png</PackagePath>
+      <Modified>2016-05-12T12:46:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\cannonBall.png">
+      <PackagePath>images\cannonBall.png</PackagePath>
+      <Modified>2016-05-10T14:23:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\cloudMashUp1.png">
+      <PackagePath>images\cloudMashUp1.png</PackagePath>
+      <Modified>2016-05-13T13:05:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\cloudMashUp2.png">
+      <PackagePath>images\cloudMashUp2.png</PackagePath>
+      <Modified>2016-05-13T13:35:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\cloudMashUp3.png">
+      <PackagePath>images\cloudMashUp3.png</PackagePath>
+      <Modified>2016-05-13T13:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Cover-GameStart.png">
+      <PackagePath>images\Cover-GameStart.png</PackagePath>
+      <Modified>2016-05-15T20:06:09.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Cover-HighScore.png">
+      <PackagePath>images\Cover-HighScore.png</PackagePath>
+      <Modified>2016-05-15T21:32:47.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Cover-LowScore.png">
+      <PackagePath>images\Cover-LowScore.png</PackagePath>
+      <Modified>2016-05-15T21:15:27.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\GameBackGround.png">
+      <PackagePath>images\GameBackGround.png</PackagePath>
+      <Modified>2016-05-16T01:30:21.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\LuffySpriteSheet.png">
+      <PackagePath>images\LuffySpriteSheet.png</PackagePath>
+      <Modified>2016-05-10T12:06:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\OnePieceLogo.png">
+      <PackagePath>images\OnePieceLogo.png</PackagePath>
+      <Modified>2016-05-15T20:31:44.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Ship-Cutout.png">
+      <PackagePath>images\Ship-Cutout.png</PackagePath>
+      <Modified>2016-05-15T19:06:13.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\shipBackground.png">
+      <PackagePath>images\shipBackground.png</PackagePath>
+      <Modified>2016-05-10T12:06:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Sky-Background.png">
+      <PackagePath>images\Sky-Background.png</PackagePath>
+      <Modified>2016-05-15T19:03:58.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\smokeCloud.png">
+      <PackagePath>images\smokeCloud.png</PackagePath>
+      <Modified>2016-05-12T13:38:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\TheOnePiece.png">
+      <PackagePath>images\TheOnePiece.png</PackagePath>
+      <Modified>2016-05-12T13:52:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-20T23:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\images\GameBackground.jpg">
+      <PackagePath>images\GameBackground.jpg</PackagePath>
+      <Modified>2016-05-16T01:37:35.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-05-16T00:27:15.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\js\game.js">
+      <PackagePath>js\game.js</PackagePath>
+      <Modified>2016-05-16T01:55:25.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\js\jquery-1.12.3.min.js">
+      <PackagePath>js\jquery-1.12.3.min.js</PackagePath>
+      <Modified>2016-04-28T12:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\js\jquery.transit.js">
+      <PackagePath>js\jquery.transit.js</PackagePath>
+      <Modified>2016-04-28T12:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\js\OnePiece.js">
+      <PackagePath>js\OnePiece.js</PackagePath>
+      <Modified>2016-05-12T14:29:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\js\player.js">
+      <PackagePath>js\player.js</PackagePath>
+      <Modified>2016-05-12T13:08:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\js\CannonBall.js">
+      <PackagePath>js\CannonBall.js</PackagePath>
+      <Modified>2016-05-11T19:04:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-05-16T01:54:00.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-16T01:46:26.467</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

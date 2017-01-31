@@ -1,0 +1,15 @@
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Release\ReverseMap\resources.pri
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Release\AppxManifest.xml
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\ResourceHandlingTask.state
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\priconfig.xml
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\priconfig.xml.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\layout.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\layout.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\resources.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\resources.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\pri.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\pri.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\qualifiers.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\qualifiers.txt.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\MultipleQualifiersPerDimensionFound.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Release\ProjectArchitectures.txt

@@ -1,0 +1,75 @@
+﻿body
+{
+    background: #000;
+    padding: 0;
+    margin: 0 auto;
+    width: 1148px;
+}
+#scoreBoard
+{
+    background: #808080;
+    display: inline;
+    font-size: 1.3em;
+    color: #fff;
+    text-align: center;
+}
+.scoreItem
+{
+    float: left;
+    margin-left: 24px;
+}
+main
+{
+    margin-top: 42px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 1150px;
+    height: 800px;
+    overflow: hidden;
+}
+#enemy 
+{
+    position: absolute;
+    z-index: 21;
+}
+canvas 
+{
+    margin: 0 auto;
+    position: absolute;
+    overflow: hidden;
+    border-radius: 4px;
+}
+#backgroundCanvas 
+{
+    background: url(../../images/shipBackground.png);
+    opacity: 0.87;   
+}
+#gameCanvas
+{
+    z-index: 13;
+}
+a
+{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+a.button
+{
+    background: #185da8;
+    border-radius: 5px;
+    display: block;
+    font-size: 30px;
+    margin: 40px 0 0 270px;
+    padding: 10px;
+    width: 200px;
+}
+a.button:hover
+{
+    background: #2488f5;
+    color: #fff;
+    text-decoration: none;
+}

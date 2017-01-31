@@ -1,0 +1,64 @@
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\ReverseMap\resources.pri
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\OnePieceTreasuerHunt.build.appxrecipe
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ResourceHandlingTask.state
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2015\Projects\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ProjectArchitectures.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\ReverseMap\resources.pri
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\AppxManifest.xml
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\OnePieceTreasuerHunt.build.appxrecipe
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ResourceHandlingTask.state
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt.intermediate
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ProjectArchitectures.txt
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\ReverseMap\resources.pri
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\AppxManifest.xml
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\OnePieceTreasuerHunt.build.appxrecipe
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ResourceHandlingTask.state
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles.intermediate
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ProjectArchitectures.txt
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\ReverseMap\resources.pri
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\AppxManifest.xml
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\Debug\OnePieceTreasuerHunt.build.appxrecipe
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ResourceHandlingTask.state
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\priconfig.xml.intermediate
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\layout.resfiles.intermediate
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\resources.resfiles.intermediate
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\pri.resfiles.intermediate
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\qualifiers.txt.intermediate
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\Debug\ProjectArchitectures.txt

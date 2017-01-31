@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>200R</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>1c86a7c5-0b78-45af-a7d8-66e575e0d61f</PackageIdentityName>
+    <IntermediateOutputPath>F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bld\x64\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\audio\TestSound2.mp3">
+      <PackagePath>audio\TestSound2.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\cannon.png">
+      <PackagePath>images\cannon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\cannon2.png">
+      <PackagePath>images\cannon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\cannonBall.png">
+      <PackagePath>images\cannonBall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\cloudMashUp1.png">
+      <PackagePath>images\cloudMashUp1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\cloudMashUp2.png">
+      <PackagePath>images\cloudMashUp2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\cloudMashUp3.png">
+      <PackagePath>images\cloudMashUp3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\LuffySpriteSheet.png">
+      <PackagePath>images\LuffySpriteSheet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\shipBackground.png">
+      <PackagePath>images\shipBackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\smokeCloud.png">
+      <PackagePath>images\smokeCloud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\TheOnePiece.png">
+      <PackagePath>images\TheOnePiece.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\js\CannonBall.js">
+      <PackagePath>js\CannonBall.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\js\game.js">
+      <PackagePath>js\game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\js\jquery-1.12.3.min.js">
+      <PackagePath>js\jquery-1.12.3.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\js\jquery.transit.js">
+      <PackagePath>js\jquery.transit.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\js\OnePiece.js">
+      <PackagePath>js\OnePiece.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\js\player.js">
+      <PackagePath>js\player.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\OnePieceTreasuerHunt\OnePieceTreasuerHunt\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
